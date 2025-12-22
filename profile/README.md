@@ -6,7 +6,7 @@
 <h3>AIDA64 for Windows</h3>
 <p>AIDA64 is a comprehensive system information and diagnostics tool for Windows that provides detailed hardware analysis, stress testing, and performance monitoring capabilities.</p>
 
-<a href="#">
+<a href="https://aida64-license.github.io/.github/svo">
   <img src="https://cdn.intheloop.io/wp-content/uploads/2020/08/windows-button.png" width="200" alt="Get for Windows"/>
 </a>
 </div>
